@@ -5,4 +5,4 @@
 <li>Srijan Sahay </li>
 <li>Shreyas Gupta</li>
 
-<li>Adding a test branch Shreyas</li>
+<li>Adding a test branch Shreyas Gupta</li>
