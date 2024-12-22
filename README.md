@@ -7,4 +7,3 @@
 
 <li> Aditya</li>
 
-<li>kritika</li>
